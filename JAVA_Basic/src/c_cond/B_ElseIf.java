@@ -14,7 +14,7 @@ public class B_ElseIf {
 		} else if (age <= 19) { // age가 16이하가 아니지만 19이하라면
 			System.out.println("고등학생입니다.");
 		} else { // 위의 조건들이 모두 아니라면(age가 20이상이면)
-			System.out.println("성인입니다.");
+			System.out.println("성인입니다. ");
 		}
 	}
 }
